@@ -1,4 +1,4 @@
-#3D-Text
+3D-Text
 
 Det gir sig selv
 
